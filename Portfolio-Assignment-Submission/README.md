@@ -1,20 +1,25 @@
-# Portfolio Assignment - C# Projects
+# Erhan Cigdem’s C# & .NET Framework Projects  
+*Repository: erhancigdem/C-and--NET-Framework-Part-2*
 
-This repository contains various projects and exercises related to C# and .NET development. Each project demonstrates different concepts such as object-oriented programming, interfaces, operator overloading, and polymorphism.
+Welcome! This repository contains various coding assignments and exercises in **C#** and the **.NET Framework**. Each subfolder represents a different concept or skill learned throughout the course.
 
-## Project Files
+---
 
-### 1. Polymorphism.cs
-- **Description**: This project demonstrates the concept of polymorphism in C#. The `Employee` class implements the `IQuittable` interface, which includes a `Quit()` method. In the main program, polymorphism is demonstrated by treating an `Employee` object as an `IQuittable` object and calling the `Quit()` method.
-- **Key Concepts**: Polymorphism, Interfaces, and Method Overriding.
-- **Repository**: [Polymorphism Assignment](https://github.com/ugur-saganci/Polymorphism-Assignment-Submission)
+## 🚀 Contents
 
-### 2. Operator Assignment.cs
-- **Description**: This project focuses on operator overloading. The `Employee` class has overloaded `==` and `!=` operators to compare two `Employee` objects based on their `Id`. It also overrides the `Equals` and `GetHashCode` methods to ensure proper comparison behavior.
-- **Key Concepts**: Operator Overloading, Overriding Methods.
-- **Repository**: [Operators Assignment](https://github.com/ugur-saganci/Operators-Assignment-Submission)
+| Project Folder | What You'll Learn |
+|----------------|--------------------|
+| **ASP.NET-MVC-Entity-Framework** | Web application using MVC pattern + Entity Framework for data access. |
+| **Final-Assignment-Submission** | A capstone project combining multiple topics covered during the term. |
+| **Method-Class-Assignment-Submission** | Fundamentals of classes and methods in C#. |
+| **Operators-Assignment-Submission** | Use of arithmetic, logical, comparison, and other operators. |
+| **Polymorphism-Assignment-Submission** | Object-Oriented Programming concept: polymorphism in action. |
+| **Portfolio-Assignment-Submission** | Building a portfolio to display your projects and coding progress. |
 
-## How to Run
-1. Clone the repository.
-2. Open the solution in Visual Studio.
-3. Build and run each project individually to see the output.
+---
+
+## 🔧 How to Run These Projects
+
+1. Clone this repository to your local machine.  
+   ```bash
+   git clone https://github.com/erhancigdem/C-and--NET-Framework-Part-2.git
