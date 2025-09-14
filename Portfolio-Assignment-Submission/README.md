@@ -1,25 +1,34 @@
-# Erhan Cigdem’s C# & .NET Framework Projects  
-*Repository: erhancigdem/C-and--NET-Framework-Part-2*
+# C# & .NET Framework – Part 2
 
-Welcome! This repository contains various coding assignments and exercises in **C#** and the **.NET Framework**. Each subfolder represents a different concept or skill learned throughout the course.
-
----
-
-## 🚀 Contents
-
-| Project Folder | What You'll Learn |
-|----------------|--------------------|
-| **ASP.NET-MVC-Entity-Framework** | Web application using MVC pattern + Entity Framework for data access. |
-| **Final-Assignment-Submission** | A capstone project combining multiple topics covered during the term. |
-| **Method-Class-Assignment-Submission** | Fundamentals of classes and methods in C#. |
-| **Operators-Assignment-Submission** | Use of arithmetic, logical, comparison, and other operators. |
-| **Polymorphism-Assignment-Submission** | Object-Oriented Programming concept: polymorphism in action. |
-| **Portfolio-Assignment-Submission** | Building a portfolio to display your projects and coding progress. |
+This repository contains a collection of assignments and practice projects built with **C#** and the **.NET Framework**.  
+Each folder below links directly to its project implementation.
 
 ---
 
-## 🔧 How to Run These Projects
+## 📂 Projects
 
-1. Clone this repository to your local machine.  
+- [ASP.NET MVC Entity Framework](https://github.com/erhancigdem/C-and--NET-Framework-Part-2/tree/main/ASP.NET-MVC-Entity-Framework)  
+  A sample web application demonstrating the Model–View–Controller pattern along with Entity Framework for database access.
+
+- [Final Assignment Submission](https://github.com/erhancigdem/C-and--NET-Framework-Part-2/tree/main/Final-Assignment-Submission)  
+  The capstone project that integrates all the concepts explored during the course.
+
+- [Method & Class Assignment](https://github.com/erhancigdem/C-and--NET-Framework-Part-2/tree/main/Method-Class-Assignment-Submission)  
+  Focused on the basics of classes and methods in C#, showing reusability and modular programming.
+
+- [Operators Assignment](https://github.com/erhancigdem/C-and--NET-Framework-Part-2/tree/main/Operators-Assignment-Submission)  
+  Illustrates the use of operators in C# including arithmetic, logical, and comparison operators.
+
+- [Polymorphism Assignment](https://github.com/erhancigdem/C-and--NET-Framework-Part-2/tree/main/Polymorphism-Assignment-Submission)  
+  A practical demonstration of polymorphism and object-oriented principles.
+
+- [Portfolio Assignment](https://github.com/erhancigdem/C-and--NET-Framework-Part-2/tree/main/Portfolio-Assignment-Submission)  
+  A portfolio project that ties together earlier exercises and presents them in a cohesive way.
+
+---
+
+## ▶️ Running the Projects
+
+1. Clone the repository:  
    ```bash
    git clone https://github.com/erhancigdem/C-and--NET-Framework-Part-2.git
